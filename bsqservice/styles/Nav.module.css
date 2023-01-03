@@ -1,0 +1,17 @@
+.nav {
+    position: absolute;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    background-color: white;
+    top: 0;
+    height: 50px;
+    align-items: center;
+    text-transform: uppercase;
+    font-size: small;
+}
+
+.nav h1:hover {
+    color: blue;
+    cursor: pointer;
+}
